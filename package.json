@@ -1,0 +1,19 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luke7720",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.11",
+    "@types/ws": "^8.2.1",
+    "typescript": "^4.5.3"
+  },
+  "dependencies": {
+  },
+  "description": ""
+}
